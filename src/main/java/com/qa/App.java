@@ -19,11 +19,11 @@ public class App
     }
 
     public static String sayHello(){
-        return "Hello Happy World!";
+        return "Hello World!";
     }
 
     public static String sayGoodbye(){
-        return "Goodbye and Keep Smiling!";
+        return "Goodbye and Keep Smiling Please!";
     }
 
     public static String sayHelloToSomeone(String name){
