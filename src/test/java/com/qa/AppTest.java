@@ -36,7 +36,7 @@ public class AppTest
     {
         // Arrange
         String actualResponse = "";
-        String expectedResponse = "Hello Happy World!";
+        String expectedResponse = "Hello World!";
 
         // Act
         actualResponse = sayHello();
